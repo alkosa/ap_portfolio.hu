@@ -37430,35 +37430,35 @@ A.Cn.prototype={
 F(a,b){var s=t.up,r=A.b([40,50,20],s),q=A.b([60,70,30],s)
 return A.qh(new A.Co(A.b([60,70,30],s),null),new A.Cp(r,null),new A.Cq(q,null))}}
 A.Co.prototype={
-F(b6,b7){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0=null,b1="IT megold\xe1sok, teljesk\xf6r\u0171 IT t\xe1mogat\xe1s",b2=A.cE(b7,t.A),b3=t.w,b4=b7.E(b3).f.a.b,b5=b7.E(b3).f.a.a
-b3=b5*0.02
-s=b2.c?B.h:B.j
+F(b5,b6){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0=null,b1=A.cE(b6,t.A),b2=t.w,b3=b6.E(b2).f.a.b,b4=b6.E(b2).f.a.a
+b2=b4*0.02
+s=b1.c?B.h:B.j
 r=A.aF(b0,30,b0)
-q=A.eV(A.ib("assets/web.png",b4*0.7),1)
-p=b5<1230
+q=A.eV(A.ib("assets/web.png",b3*0.7),1)
+p=b4<1230
 o=p?2:1
 n=p?25:0
-m=b4*0.025
+m=b3*0.025
 l=A.az(B.C,m,b0,b0,b0,b0)
-k=A.aF(b0,b4*0.03,b0)
-j=b4*0.02
-i=A.az(b2.c?B.j:B.h,j,B.w,b0,b0,b0)
+k=A.aF(b0,b3*0.03,b0)
+j=b3*0.02
+i=A.az(b1.c?B.j:B.h,j,B.w,b0,b0,b0)
 h=A.aF(b0,j,b0)
-g=b4*0.035
-f=A.az(b2.c?B.j:B.h,g,B.w,b0,b0,b0)
+g=b3*0.035
+f=A.az(b1.c?B.j:B.h,g,B.w,b0,b0,b0)
 e=A.az(B.q.h(0,500),j,b0,2,b0,b0)
 d=A.aF(b0,j,b0)
-c=A.az(b2.c?B.j:B.h,g,B.w,b0,b0,b0)
+c=A.az(b1.c?B.j:B.h,g,B.w,b0,b0,b0)
 b=A.az(B.q.h(0,500),j,b0,2,b0,b0)
 a=A.aF(b0,j,b0)
-g=A.az(b2.c?B.j:B.h,g,B.w,b0,b0,b0)
+g=A.az(b1.c?B.j:B.h,g,B.w,b0,b0,b0)
 a0=A.az(B.q.h(0,500),j,b0,2,b0,b0)
 a1=A.aF(b0,m,b0)
 a2=B.q.h(0,800)
 a2.toString
 a2=A.aD(b0,b0,B.l,b0,b0,new A.bX(b0,b0,new A.bQ(B.m,B.m,new A.bW(a2,2,B.W),B.m),b0,b0,b0,B.T),b0,b0,b0,b0,b0,b0,b0)
 a3=A.aF(b0,j,b0)
-a4=A.az(B.C,b4*0.018,b0,b0,b0,b0)
+a4=A.az(B.C,b3*0.018,b0,b0,b0,b0)
 a5=t.p
 a6=A.b([],a5)
 for(a7=0;a7<6;++a7)a6.push(new A.nJ($.aeI[a7],b0))
@@ -37466,8 +37466,8 @@ a6=A.bp(a6,B.t,B.o,B.y)
 a8=A.aF(b0,j,b0)
 a9=B.q.h(0,800)
 a9.toString
-o=A.eV(A.aD(b0,A.cp(A.b([new A.bt("Kik vagyunk mi?",l,b0,b0),k,new A.bt(u.n,i,b0,b0),h,new A.bt(b1,f,b0,b0),new A.bt(u.P,e,b0,b0),d,new A.bt("IT fejleszt\xe9s",c,b0,b0),new A.bt(u.X,b,b0,b0),a,new A.bt(b1,g,b0,b0),new A.bt(u.w,a0,b0,b0),a1,a2,a3,new A.bt(u.j,a4,b0,b0),a6,a8,A.aD(b0,b0,B.l,b0,b0,new A.bX(b0,b0,new A.bQ(B.m,B.m,new A.bW(a9,2,B.W),B.m),b0,b0,b0,B.T),b0,b0,b0,b0,b0,b0,b0),A.aF(b0,m,b0),A.bp(A.b([new A.j6("Telefon","+36 30 419 45 48",b0,b0),new A.j6("Email","info@albapartiscum.hu",b0,b0)],a5),B.t,B.oz,B.y),A.aF(b0,j,b0)],a5),B.a4,B.o,B.y),B.l,b0,b0,b0,b0,b0,b0,new A.ao(n,0,0,0),b0,b0,b0),o)
-return A.aD(b0,A.cp(A.b([new A.fD("\nR\xf3lunk",b0),r,A.bp(A.b([q,o,A.aD(b0,b0,B.l,b0,b0,b0,b0,b0,b0,b0,b0,b0,p?b5*0.05:b5*0.1)],a5),B.t,B.o,B.y)],a5),B.t,B.o,B.y),B.l,s,b0,b0,b0,b0,b0,new A.ao(b3,0,b3,0),b0,b0,b0)}}
+o=A.eV(A.aD(b0,A.cp(A.b([new A.bt("Kik vagyunk mi?",l,b0,b0),k,new A.bt(u.n,i,b0,b0),h,new A.bt("IT megold\xe1sok, teljesk\xf6r\u0171 IT t\xe1mogat\xe1s",f,b0,b0),new A.bt(u.P,e,b0,b0),d,new A.bt("IT fejleszt\xe9s",c,b0,b0),new A.bt(u.X,b,b0,b0),a,new A.bt("Elektronikai fejleszt\xe9s",g,b0,b0),new A.bt(u.w,a0,b0,b0),a1,a2,a3,new A.bt(u.j,a4,b0,b0),a6,a8,A.aD(b0,b0,B.l,b0,b0,new A.bX(b0,b0,new A.bQ(B.m,B.m,new A.bW(a9,2,B.W),B.m),b0,b0,b0,B.T),b0,b0,b0,b0,b0,b0,b0),A.aF(b0,m,b0),A.bp(A.b([new A.j6("Telefon","+36 30 419 45 48",b0,b0),new A.j6("Email","info@albapartiscum.hu",b0,b0)],a5),B.t,B.oz,B.y),A.aF(b0,j,b0)],a5),B.a4,B.o,B.y),B.l,b0,b0,b0,b0,b0,b0,new A.ao(n,0,0,0),b0,b0,b0),o)
+return A.aD(b0,A.cp(A.b([new A.fD("\nR\xf3lunk",b0),r,A.bp(A.b([q,o,A.aD(b0,b0,B.l,b0,b0,b0,b0,b0,b0,b0,b0,b0,p?b4*0.05:b4*0.1)],a5),B.t,B.o,B.y)],a5),B.t,B.o,B.y),B.l,s,b0,b0,b0,b0,b0,new A.ao(b2,0,b2,0),b0,b0,b0)}}
 A.Cp.prototype={
 F(b6,b7){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0=null,b1=A.cE(b7,t.A),b2=t.w,b3=b7.E(b2).f.a.b,b4=b7.E(b2).f,b5=b7.E(b2).f.a.a<300?2:3
 b2=b4.a.a*0.05
