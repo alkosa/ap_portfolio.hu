@@ -37986,22 +37986,22 @@ $S:0}
 A.vt.prototype={
 am(){return new A.MW(B.m)}}
 A.MW.prototype={
-F(a,b){var s,r,q,p,o,n,m,l,k,j,i=null,h=A.cw(b,t.A),g=t.w,f=b.E(g).f.a.b
-g=b.E(g).f
-s=A.bo("A fejl\u0151d\xe9sed",i,i,i,A.aE(i,B.C,f*0.07,B.a_,i,1.1,i),i,i)
-r=A.ax(i,f*0.01,i)
-q=h.c?B.j:B.h
-q=A.bo("vel\xfcnk kezd\u0151dik!",i,i,i,A.aE(i,q,f*0.04,B.u,i,i,i),i,i)
-p=A.ax(i,f*0.02,i)
-o=A.ek(B.cU,B.C,i)
-n=f*0.03
-m=A.aE(i,h.c?B.j:B.h,n,B.a_,i,i,i)
-l=t.p
-m=A.bq(A.b([o,A.jh(A.ag3(A.b([A.fW(" IT Szolg\xe1ltaltat\xe1s",B.F,B.at,B.W,i),A.fW(" IT Fejleszt\xe9s",B.F,B.at,B.W,i),A.fW(" Elektronikai Fejleszt\xe9s",B.F,B.at,B.W,i),A.fW(" Minden ami IT \xe9s fejleszt\xe9s!",B.F,B.at,B.W,i)],t.u6),!1,!0,i,i,i,i,new A.a9G(),B.b3,!1,!1,3),i,i,B.b1,!0,m,i,i,B.ai)],l),B.t,B.p,B.w)
-o=A.ax(i,f*0.035,i)
-k=A.b([],l)
-for(j=0;j<5;++j)k.push(new A.nK(B.eb[j],B.e8[j],n,2,i))
-return A.aA(i,A.cd(A.b([A.aA(i,A.cd(A.b([s,r,q,p,m,o,A.bq(k,B.t,B.p,B.a0)],l),B.a4,B.p,B.w),B.k,i,i,i,i,i,new A.am(g.a.a*0.07,f*0.06,0,0),i,i,i,i),new A.dQ(B.ik,i,i,A.GU(!1,A.hr("assets/it.png",i,i),0.9),i)],l),B.t,B.p,B.w),B.k,i,i,i,i,i,i,i,i,i,i)}}
+F(a,b){var s,r,q,p,o,n,m,l,k,j=null,i=A.cw(b,t.A),h=t.w,g=b.E(h).f.a.b,f=b.E(h).f.a.a
+h=f>g?g*0.21:g*0.07
+h=A.bo("A fejl\u0151d\xe9sed",j,j,j,A.aE(j,B.C,h,B.a_,j,1.1,j),j,j)
+s=A.ax(j,g*0.01,j)
+r=i.c?B.j:B.h
+r=A.bo("vel\xfcnk kezd\u0151dik!",j,j,j,A.aE(j,r,g*0.04,B.u,j,j,j),j,j)
+q=A.ax(j,g*0.02,j)
+p=A.ek(B.cU,B.C,j)
+o=g*0.03
+n=A.aE(j,i.c?B.j:B.h,o,B.a_,j,j,j)
+m=t.p
+n=A.bq(A.b([p,A.jh(A.ag3(A.b([A.fW(" IT Szolg\xe1ltaltat\xe1s",B.F,B.at,B.W,j),A.fW(" IT Fejleszt\xe9s",B.F,B.at,B.W,j),A.fW(" Elektronikai Fejleszt\xe9s",B.F,B.at,B.W,j),A.fW(" Minden ami IT \xe9s fejleszt\xe9s!",B.F,B.at,B.W,j)],t.u6),!1,!0,j,j,j,j,new A.a9G(),B.b3,!1,!1,3),j,j,B.b1,!0,n,j,j,B.ai)],m),B.t,B.p,B.w)
+p=A.ax(j,g*0.035,j)
+l=A.b([],m)
+for(k=0;k<5;++k)l.push(new A.nK(B.eb[k],B.e8[k],o,2,j))
+return A.aA(j,A.cd(A.b([A.aA(j,A.cd(A.b([h,s,r,q,n,p,A.bq(l,B.t,B.p,B.a0)],m),B.a4,B.p,B.w),B.k,j,j,j,j,j,new A.am(f*0.07,g*0.06,0,0),j,j,j,j),new A.dQ(B.ik,j,j,A.GU(!1,A.hr("assets/it.png",j,j),0.9),j)],m),B.t,B.p,B.w),B.k,j,j,j,j,j,j,j,j,j,j)}}
 A.a9G.prototype={
 $0(){A.kp("Tap Event")},
 $S:0}
